@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate Mobile App developer from Philippines! 🇵🇭 
 
-<h4 align="left"> He/They | 15!
+<h5 align="left"> He/They | 15!
 
 <h5 align="left"> Student | PCSHS!
 
