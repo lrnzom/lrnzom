@@ -6,7 +6,7 @@
 
 <h5 align="left"> Student | PCSHS!
 
-<h5 align="left"> Zee | the loml 
+<h5 align="left"> ...
 
 <!---
 lrnzom/lrnzom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
